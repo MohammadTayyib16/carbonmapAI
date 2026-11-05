@@ -1,0 +1,2 @@
+# Treat PDF files as binary to avoid newline and whitespace conversion
+*.pdf binary
